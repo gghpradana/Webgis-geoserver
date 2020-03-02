@@ -1,0 +1,22 @@
+<dataStore>
+  <id>DataStoreInfoImpl-742d1dc7:17093174437:-7ffa</id>
+  <name>jalan</name>
+  <type>Directory of spatial files (shapefiles)</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--3d4b60cf:1708afb6089:-7fff</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="charset">ISO-8859-1</entry>
+    <entry key="filetype">shapefile</entry>
+    <entry key="create spatial index">true</entry>
+    <entry key="memory mapped buffer">false</entry>
+    <entry key="timezone">Asia/Bangkok</entry>
+    <entry key="enable spatial index">true</entry>
+    <entry key="namespace">webgis</entry>
+    <entry key="cache and reuse memory maps">true</entry>
+    <entry key="url">file://D:\LAPRAK\SBD\shp</entry>
+    <entry key="fstype">shape</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>
